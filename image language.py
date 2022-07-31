@@ -9,7 +9,7 @@ z = 0;
 
 code = ""
 
-print("""insert the code dummy z is the brightness overflow at 256
+print("""insert the code z is the brightness overflow at 256
 type "stop" to stop""")
 
 while True:
